@@ -139,15 +139,15 @@ Self responsibilities
 Shared responsibilities
     Though your personal area (see below) is preferably swept by yourself, bunk ICs can sweep and mop them as well
     Bunk ICs must clean the personal area and anything under the bed if the owner is not present in the 1st company
-    ┌─────┬────┐
+    ┌──────────┬────────┐
     │          │Cabinet │
-    │          ├────┤
+    │          ├────────┤
     │          │        │
     │   Bed    │Personal│
     │          │Area    │
     │          │        │
     │          │        │
-    ├─────┴─┬──┘
+    ├──────────┴───┬────┘
     │LBS bag bucket│
-    └───────┘
+    └──────────────┘
     (Not drawn to scale, some may have a mirror image of this layout)
