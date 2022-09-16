@@ -1,0 +1,153 @@
+Cleaning session:
+    Cleaning session is defined as
+        when a timeframe is regarded as "area cleaning"
+        when there is 40 minutes or more admin time or the equivalent before an SBA or SBB
+
+Points:
+    Toilet merit points
+        Earned from being a toilet IC
+        Toilet merit points are weighted heavier to general merit points
+
+    General merit points
+        Earned from completing your assigned roles
+        Earned from completing your assigned misc roles
+        Some roles may provide less merit points depending on how much work has been performed
+
+Main roles:
+    Main roles are assigned to one person per cleaning session
+    No recruit should have 2 main roles assigned at any cleaning session
+    Main roles listed below are in descending orders of importance
+
+    Roles                   Strength expected
+
+    Toilet IC               3
+    Bunk IC                 3
+    Corridor IC             1
+    Staircase IC            1
+    Ground floor IC         2
+    Management              1
+    Backups                 4
+
+Misc roles:
+    Misc roles can be assigned to each person together with main roles
+    Misc roles are assigned due to convenience of, such as, where you sleep
+    Misc roles generally provide less general merit points than main roles
+    Misc roles earn merit points originally assigned to the main role's tasks
+    Misc roles do not have to be filled in when the expected strength is not met
+
+    Roles                   Strength expected
+
+    Bedside window wiper    3
+    High area wiper         1
+
+Responsibilities:
+    Toilet IC
+        Strength assignment (3 recruits)
+        Tasks
+            - Discuss with section 2 to allocate tasks
+                [3 toilet merit point shared equally for each participating strength]
+
+    Bunk IC
+        Strength assignment (3 recruits)
+            Person A
+                Sweep the floor (half the bunk)
+            Person B
+                Sweep the floor (half the bunk)
+            Person C
+                Wipe windows
+                Wipe high areas (if applicable)
+                Wipe holes in the wall
+                Mop the floor (once person A and B are done)
+
+        Detailed tasks and point assignment
+            - Wipe windows (bedside windows if bedside window wipers are not around)
+                [X general merit points for all non-bedside windows]
+                [X general merit points for each bedside window section]
+            - Wipe high areas (if high area wiper not around) (window grills, top of doors, etc)
+                [X general merit points for all high areas wiped]
+            - Wipe holes in the wall
+                [X general merit points for all holes wiped]
+            - Sweep the floor
+                [X general merit points per half the bunk swept]
+            - Mop the floor (if there is sufficient time)
+                [X general merit points for the whole bunk mopped]
+
+    Corridor IC
+        Strength assignment (1 recruit)
+        Corridor IC is rotated between 2 people, who were originally assigned to the task
+        Detailed tasks and point assignment
+            [X general merit points for all tasks accomplished]
+            - Sweep the corridor (ensure there is no visible dirt)
+            - Remove foreign objects from the corridor
+            - Remove drainage clogs
+            - Remove stagnant water
+            - Inform people of improper laundry hanging
+
+    Staircase IC
+        Strength assignment (1 recruit)
+        Staircase IC is rotated between 2 people, who were originally assigned to the task
+        Detailed tasks and point assignment
+            [X general merit points for all tasks accomplished]
+            - Sweep the stairs (ensure there is no visible dirt)
+            - Remove foreign objects from the stairs
+            - Throw or hide the trash bag and replace it after SBA / SBB
+
+    Ground floor IC
+        Strength assignment (2 recruit)
+        This IC requires a strength of 2 recruits, in which one of them should be the original ground floor IC
+        Detailed tasks and point assignment
+            [X general merit points shared equally for each participating recruit]
+            - Sweep ground floor corridors and remove foreign objects
+            - Sweep the parade square and remove foreign objects
+
+    Management
+        Strength assignment (1 recruit)
+        Detailed tasks and point assignment
+            [X general merit points for all tasks accomplished]
+            - Ensure everyone knows what their roles are for the cleaning session
+            - Ensure the assigned tasks are performed
+            - Take note of any role replacements that happen due to absence
+            - Update merit points accordingly
+        * Foul play would be punished severely
+
+    Backup
+        Strength assignment (4 recruit)
+        No tasks are required from this role
+        However, management may task this role to replace an IC when needed
+
+Self responsibilities
+    Your own bed, including
+        mattress, mattress cover
+        pillow, pillow case, pillow cover
+        blanket, bedframe (wooden and metal)
+        hung towel
+
+    Anything under your own bed, including
+        cleanliness of the floor under your own bed
+        arrangement of footwear and duffle bag
+        cleanliness of footwear and duffle bag
+
+    Personal and personal SAF belongings out of place, including but not limited to
+        bags, LBS, clothing, toiletries, valuables, masks, bucket
+
+    Anything inside the cabinet, including but not limited to
+        arrangement and cleanliness
+
+    Cabinet surfaces, including but not limited to
+        top of the cabinet and the sides
+
+Shared responsibilities
+    Though your personal area (see below) is preferably swept by yourself, bunk ICs can sweep and mop them as well
+    Bunk ICs must clean the personal area and anything under the bed if the owner is not present in the 1st company
+    ┌─────┬────┐
+    │          │Cabinet │
+    │          ├────┤
+    │          │        │
+    │   Bed    │Personal│
+    │          │Area    │
+    │          │        │
+    │          │        │
+    ├─────┴─┬──┘
+    │LBS bag bucket│
+    └───────┘
+    (Not drawn to scale, some may have a mirror image of this layout)

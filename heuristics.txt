@@ -1,0 +1,7 @@
+General idea
+
+Looking at the accumulated merit points, assign tasks to people who have the least points
+Toilet merit points are valued higher, as in the algorithm will try and balance out the toilet IC role the most
+Though unlikely, the algorithm will try not to assign toilet ICs to the same recruit multiple times in a row
+If there are multiple people with the same merit points, the roles will be assigned randomly
+Random assignment is done with a seed that is relative to the day the cleaning session is held
