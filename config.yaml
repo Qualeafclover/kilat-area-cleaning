@@ -1,0 +1,128 @@
+roles:
+  toilet_ic:
+    name: toilet_ic
+    role_type: null
+    strength: 3
+    tasks:
+      - toilet_main
+      - toilet_main
+      - toilet_main
+
+  bunk_ic:
+    name: bunk_ic
+    role_type: null
+    strength: 3
+    tasks:
+      - bunk_windows
+      - bunk_window_bedside
+      - bunk_window_bedside
+      - bunk_window_bedside
+      - bunk_window_bedside
+      - bunk_window_bedside
+      - bunk_high_areas
+      - bunk_holes
+      - bunk_sweep_half
+      - bunk_sweep_half
+      - bunk_mop
+
+  corridor_ic:
+    name: corridor_ic
+    role_type: specialized
+    strength: 1
+    tasks:
+      - corridor_main
+
+  staircase_ic:
+    name: staircase_ic
+    role_type: specialized
+    strength: 1
+    tasks:
+      - staircase_main
+
+  ground_floor_ic:
+    name: ground_floor_ic
+    role_type: partially_specialized
+    strength: 2
+    tasks:
+      - ground_main
+      - ground_main
+
+  management:
+    name: management
+    role_type: null
+    strength: 1
+    tasks:
+      - management_main
+
+  backup:
+    name: backup
+    role_type: null
+    strength: 4
+    tasks: []
+
+tasks:
+  toilet_main: # x3
+    name: toilet_main
+    role: toilet_ic
+    toilet_merit: 1.0
+    general_merit: 0.0
+
+  bunk_windows: # x1
+    name: bunk_windows
+    role: bunk_ic
+    toilet_merit: 0.0
+    general_merit: 3.0
+
+  bunk_window_bedside: # x5
+    name: bunk_window_bedside
+    role: bunk_ic
+    toilet_merit: 0.0
+    general_merit: 0.5
+
+  bunk_high_areas: # x1
+    name: bunk_high_areas
+    role: bunk_ic
+    toilet_merit: 0.0
+    general_merit: 0.7
+
+  bunk_holes: # x1
+    name: bunk_holes
+    role: bunk_ic
+    toilet_merit: 0.0
+    general_merit: 0.4
+
+  bunk_sweep_half: # x2
+    name: bunk_sweep_half
+    role: bunk_ic
+    toilet_merit: 0.0
+    general_merit: 4.0
+
+  bunk_mop: # x1
+    name: bunk_mop
+    role: bunk_ic
+    toilet_merit: 0.0
+    general_merit: 4.0
+
+  corridor_main: # x1
+    name: corridor_main
+    role: corridor_ic
+    toilet_merit: 0.0
+    general_merit: 2.5
+
+  staircase_main: # x1
+    name: staircase_main
+    role: staircase_ic
+    toilet_merit: 0.0
+    general_merit: 2.5
+
+  ground_main: # x1
+    name: ground_main
+    role: ground_floor_ic
+    toilet_merit: 0.0
+    general_merit: 3.5
+
+  management_main: # x1
+    name: management_main
+    role: management
+    toilet_merit: 0.0
+    general_merit: 1.5

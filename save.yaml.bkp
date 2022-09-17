@@ -1,0 +1,121 @@
+recruits:
+  3101:
+    four_d: 3101
+    specialization: null
+    misc_role: bunk_window_bedside
+    toilet_merit: 0.0
+    general_merit: 0.0
+    history:
+      - null
+  3102:
+    four_d: 3102
+    specialization: null
+    misc_role: null
+    toilet_merit: 0.0
+    general_merit: 0.0
+    history:
+      - null
+  3103:
+    four_d: 3103
+    specialization: null
+    misc_role: null
+    toilet_merit: 0.0
+    general_merit: 0.0
+    history:
+      - null
+  3104:
+    four_d: 3104
+    specialization: null
+    misc_role: null
+    toilet_merit: 0.0
+    general_merit: 0.0
+    history:
+      - null
+  3105:
+    four_d: 3105
+    specialization: ground_floor_ic
+    misc_role: bunk_window_bedside
+    toilet_merit: 0.0
+    general_merit: 0.0
+    history:
+      - null
+  3106:
+    four_d: 3106
+    specialization: ground_floor_ic
+    misc_role: bunk_window_bedside
+    toilet_merit: 0.0
+    general_merit: 0.0
+    history:
+      - null
+  3107:
+    four_d: 3107
+    specialization: corridor_ic
+    misc_role: null
+    toilet_merit: 0.0
+    general_merit: 0.0
+    history:
+      - null
+  3108:
+    four_d: 3108
+    specialization: corridor_ic
+    misc_role: null
+    toilet_merit: 0.0
+    general_merit: 0.0
+    history:
+      - null
+  3109:
+    four_d: 3109
+    specialization: staircase_ic
+    misc_role: null
+    toilet_merit: 0.0
+    general_merit: 0.0
+    history:
+      - null
+  3110:
+    four_d: 3110
+    specialization: staircase_ic
+    misc_role: null
+    toilet_merit: 0.0
+    general_merit: 0.0
+    history:
+      - null
+  3112:
+    four_d: 3112
+    specialization: null
+    misc_role: bunk_window_bedside
+    toilet_merit: 0.0
+    general_merit: 0.0
+    history:
+      - null
+  3113:
+    four_d: 3113
+    specialization: null
+    misc_role: bunk_high_areas
+    toilet_merit: 0.0
+    general_merit: 0.0
+    history:
+      - null
+  3114:
+    four_d: 3114
+    specialization: null
+    misc_role: null
+    toilet_merit: 0.0
+    general_merit: 0.0
+    history:
+      - null
+  3115:
+    four_d: 3115
+    specialization: null
+    misc_role: null
+    toilet_merit: 0.0
+    general_merit: 0.0
+    history:
+      - null
+  3116:
+    four_d: 3116
+    specialization: null
+    misc_role: bunk_window_bedside
+    toilet_merit: 0.0
+    general_merit: 0.0
+    history:
+      - null
